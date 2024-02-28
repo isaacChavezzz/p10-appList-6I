@@ -17,8 +17,18 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/avayar1.jpg
+    - assets/images/avayar2.jpg
+    - assets/images/avayar3.jpg
+    - assets/images/avayar4.jpg
+    - assets/images/avayar5.png
+    - assets/images/avayar6.jpg
+    - assets/images/avayar7.jpg
+    - assets/images/avayar8.jpg
+    - assets/images/avayar9.jpg
+    - assets/images/avayar10.jpg
+
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
